@@ -1,0 +1,20 @@
+main.o: main.c levels.h final.c sprs.h sprsdk.h iamgod.c titlescreen.c \
+ music.c wrong.c rip.c
+
+levels.h:
+
+final.c:
+
+sprs.h:
+
+sprsdk.h:
+
+iamgod.c:
+
+titlescreen.c:
+
+music.c:
+
+wrong.c:
+
+rip.c:
