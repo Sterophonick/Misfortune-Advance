@@ -1,0 +1,9 @@
+#define SFX_BGM	0
+#define SFX_DOOR	1
+#define SFX_KEY	2
+#define SFX_LOAD	3
+#define SFX_RIP	4
+#define SFX_SAVE	5
+#define MSL_NSONGS	0
+#define MSL_NSAMPS	6
+#define MSL_BANKSIZE	6

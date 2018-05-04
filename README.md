@@ -11,22 +11,9 @@ a handheld ROM of the game, and found nothing, which sucks because I like this g
 own version on the Game Boy Advance. This version is an adaptation of the PC Remake. This game is fully tested 
 and works on hardware.
 
-Written in C (using MS Visual Studio 2017), compiled with DevKitARM
+Written in C (using MS Visual Studio 2017) with HeartLib, compiled with DevKitARM
 
 Credits:
 	Code - Me
 	Resources (text, Textures, maps) - http://misfortune-dot-gb.webs.com/, Devillion (at itch.io), and 
 		CreepyPasta Wiki!
-
-The game and sources are included in this Zip File.
-
-Differences between windows and GBA:
-The GBA is at a constant 160x144
-GBA version is extended
-GBA version is simpler
-
-To Do:
-	Add sand textures to the blank levels.
-	Add option to quit game from menu (only works on EZ-Flash IV).
-	Remove clicking noise with musics.
-	Sprint Function?
